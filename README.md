@@ -1,13 +1,14 @@
 # Password Audit Tool
 
+| ![Python](https://img.shields.io/badge/Python-3.11%2B-blue) | ![GUI](https://img.shields.io/badge/GUI-Tkinter-informational) | ![DB](https://img.shields.io/badge/DB-SQLite-success) | ![Offline](https://img.shields.io/badge/Mode-Offline-critical)|
+|---|---|---|---|
+
 |<img width="1280" height="640" alt="audit" src="https://github.com/user-attachments/assets/e141bcf1-2bcf-4e4e-b291-79ea045081fb" />|
 |---|
 
 **Offline. Secure. Fast.**  
 > A local desktop app to verify passwords against your **own leak database** — **no cloud, no telemetry**.  
   - SQLite stores **SHA-1 hashes only**
-
-![Python](https://img.shields.io/badge/Python-3.11%2B-blue) ![GUI](https://img.shields.io/badge/GUI-Tkinter-informational) ![DB](https://img.shields.io/badge/DB-SQLite-success) ![Offline](https://img.shields.io/badge/Mode-Offline-critical)
 
 ---
 
